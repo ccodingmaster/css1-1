@@ -1,0 +1,89 @@
+h1{
+    
+    color: #8E26C0;;
+    text-align: center;
+    font-family:JetBrains Mono;
+    font-size: 64px;
+    line-height: 84px;
+    margin-left: 653px;
+    margin-top: 24px;
+}
+
+
+#chance {
+    color: red;
+    background-color: #FFE8E8;
+    font-size: 32px;
+    font-family: Lato;
+    width: 446px;
+    height: 38px;
+    text-align: center;
+    padding: 24px 40px;
+    margin-left: 32px;
+}
+
+
+#offer {
+    color: #85647b;
+    border-right: 6px solid #05F;
+    border-left: 4px solid #C11574;
+    border-bottom: 2px solid #7F56D9;
+    border-top: 2px solid #00C76E;
+    width: 943px;
+    height: 96px;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    padding: 24px 40px;
+    margin-left: 32px;
+    margin-bottom: 44px;
+    font-weight: 400;
+
+
+
+}
+
+
+#sale {
+    color: #414651;
+    font-size: 35px;
+    font-family: Lato;
+    width: 943px;
+    height: 85px;
+    background-color: #ffe8e8;
+    text-align: center;
+    margin-left: 32px;
+    margin-bottom: 36px;
+    padding: 24px 40px;
+    font-weight: 400;
+}
+
+
+#opportunity {
+    color: #0064CE;
+    font-size: 32px;
+    border: 3px solid;
+    width: 989px;
+    height: 38px;
+    text-align: right;
+    font-style: normal;
+    font-family: Lato;
+    margin-left: 32px;
+    margin-bottom: 76px;
+    padding: 24px 40px;
+}
+
+
+#persent {
+    color: #FF4405;
+    font-family: Lato;
+    font-size: 40px;
+    text-decoration-line: underline;
+}
+
+
+#image {
+    width: 556px;
+    height: 347px;
+    margin-left: 32px;
+}
